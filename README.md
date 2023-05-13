@@ -18,7 +18,7 @@
 - 🔭 I’m currently learning Full Stack Web Development
 - 🌱 I currently acquired skills like HTML5 CSS JAVASCRIPT BOOTSTRAP REACT 
 - 🤔 I’m looking for help with career guidance.
-- 📫 How to reach me: [Linkedin - @GaneshSabbani](https://www.linkedin.com/in/saikiran-uppulanche-a951081a5/) 
+- 📫 How to reach me: [Linkedin - @SaikiranUppulanche](https://www.linkedin.com/in/saikiran-uppulanche-a951081a5/) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
