@@ -1,12 +1,12 @@
-## Hola, I'm [Ganesh Sabbani!](https://ganeshsabbaniportfolio.netlify.app/) 👋
+## Hola, I'm [Saikiran Uppulanche!](https://saikiranuppulancheportfolio.netlify.app/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="moneshvenkul" /> </p>
 
 
-<a href="https://www.linkedin.com/in/ganesh-sabbani63/">
+<a href="https://www.linkedin.com/in/saikiran-uppulanche-a951081a5/">
   <img align="left" alt="Ganesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Ganeshsabbani">
+<a href="https://github.com/SaikiranUppulanche">
   <img align="left" alt="Ganesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -15,16 +15,16 @@
 
 
 
-- 🔭 I’m currently learning Full Stack Web Development With Web3 @  Almabetter
-- 🌱 I currently acquired skills like HTML5 CSS JAVASCRIPT BOOTSTRAP REACT REDUX
+- 🔭 I’m currently learning Full Stack Web Development
+- 🌱 I currently acquired skills like HTML5 CSS JAVASCRIPT BOOTSTRAP REACT 
 - 🤔 I’m looking for help with career guidance.
-- 📫 How to reach me: [Linkedin - @GaneshSabbani](https://www.linkedin.com/in/ganesh-sabbani63/) 
+- 📫 How to reach me: [Linkedin - @GaneshSabbani](https://www.linkedin.com/in/saikiran-uppulanche-a951081a5/) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
-[![Linkedin: GaneshSabbani](https://img.shields.io/badge/-GaneshSabbani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganesh-sabbani63/)](https://www.linkedin.com/in/ganesh-sabbani63/)
-[![GitHub GaneshSabbani](https://img.shields.io/github/followers/iampawan?label=FollowMeHere&style=social)](https://github.com/Ganeshsabbani)
-[![website](https://img.shields.io/badge/PortfolioWebsite-GaneshSabbani.live-2648ff?style=flat-square&logo=google-chrome)](https://ganeshsabbaniportfolio.netlify.app/)
+[![Linkedin: GaneshSabbani](https://img.shields.io/badge/-GaneshSabbani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganesh-sabbani63/)](https://www.linkedin.com/in/saikiran-uppulanche-a951081a5/)
+[![GitHub GaneshSabbani](https://img.shields.io/github/followers/iampawan?label=FollowMeHere&style=social)](https://github.com/SaikiranUppulanche)
+[![website](https://img.shields.io/badge/PortfolioWebsite-GaneshSabbani.live-2648ff?style=flat-square&logo=google-chrome)](https://saikiranuppulancheportfolio.netlify.app/)
 
 
 **Languages and Tools:**  
