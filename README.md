@@ -22,8 +22,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
-[![Linkedin: GaneshSabbani](https://img.shields.io/badge/-GaneshSabbani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganesh-sabbani63/)](https://www.linkedin.com/in/saikiran-uppulanche-a951081a5/)
-[![GitHub GaneshSabbani](https://img.shields.io/github/followers/iampawan?label=FollowMeHere&style=social)](https://github.com/SaikiranUppulanche)
+[![Linkedin: SaikiranUppulanche](https://img.shields.io/badge/-GaneshSabbani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganesh-sabbani63/)](https://www.linkedin.com/in/saikiran-uppulanche-a951081a5/)
+[![GitHub SaikiranUppulanche](https://img.shields.io/github/followers/iampawan?label=FollowMeHere&style=social)](https://github.com/SaikiranUppulanche)
 [![website](https://img.shields.io/badge/PortfolioWebsite-GaneshSabbani.live-2648ff?style=flat-square&logo=google-chrome)](https://saikiranuppulancheportfolio.netlify.app/)
 
 
