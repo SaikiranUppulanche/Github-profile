@@ -4,11 +4,12 @@
 
 
 <a href="https://www.linkedin.com/in/saikiran-uppulanche-a951081a5/">
-  <img align="left" alt="Saikiran's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ganesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/SaikiranUppulanche">
-  <img align="left" alt="Saikiran's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ganesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
 <br/>
 <br/>
 
@@ -21,8 +22,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
-[![Linkedin: SaikiranUppulanche](https://img.shields.io/badge/-SaikiranUppulanche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saikiran-uppulanche-a951081a5/)]
-[![GitHub SaikiranUppulanche](https://img.shields.io/github/followers/iampawan?label=FollowMeHere&style=social)(https://github.com/SaikiranUppulanche)]
+[![Linkedin: SaikiranUppulanche](https://img.shields.io/badge/-SaikiranUppulanche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saikiran-uppulanche-a951081a5/)](https://www.linkedin.com/in/saikiran-uppulanche-a951081a5/)
+[![GitHub SaikiranUppulanche](https://img.shields.io/github/followers/iampawan?label=FollowMeHere&style=social)](https://github.com/SaikiranUppulanche)
 [![website](https://img.shields.io/badge/PortfolioWebsite-SaikiranUppulanche.live-2648ff?style=flat-square&logo=google-chrome)](https://saikiranuppulancheportfolio.netlify.app/)
 
 
